@@ -1,8 +1,16 @@
-import React from 'react';
+
+import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
+    const navItems = <>
+        <li><NavLink>Home</NavLink></li>
+        <li><NavLink>Web Hosting</NavLink></li>
+        <li><NavLink>Domain</NavLink></li>
+        <li><NavLink>Blogs</NavLink></li>
+        <li><NavLink>Contact</NavLink></li>
+    </>
     return (
-        <div className='bg-base-100 shadow-sm'>
+        <div className='bg-base-100 dark:bg-white shadow-sm'>
             <div className="navbar container mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -11,16 +19,8 @@ const Navbar = () => {
                         </div>
                         <ul
                             tabIndex="-1"
-                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                            <li><a>Item 1</a></li>
-                            <li>
-                                <a>Parent</a>
-                                <ul className="p-2">
-                                    <li><a>Submenu 1</a></li>
-                                    <li><a>Submenu 2</a></li>
-                                </ul>
-                            </li>
-                            <li><a>Item 3</a></li>
+                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 text-lg dark:text-black mt-3 w-52 p-2 shadow">
+                            {navItems}
                         </ul>
                     </div>
                     <div>
@@ -28,22 +28,12 @@ const Navbar = () => {
                     </div>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
-                        <li><a>Item 1</a></li>
-                        <li>
-                            <details>
-                                <summary>Parent</summary>
-                                <ul className="p-2">
-                                    <li><a>Submenu 1</a></li>
-                                    <li><a>Submenu 2</a></li>
-                                </ul>
-                            </details>
-                        </li>
-                        <li><a>Item 3</a></li>
+                    <ul className="menu menu-horizontal text-lg dark:text-black px-1">
+                        {navItems}
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Button</a>
+                    <a className="btn bg-linear-to-r from-[#100B94] to-[#F3345B] text-white dark:border-none">Login</a>
                 </div>
             </div>
         </div>
