@@ -15,8 +15,8 @@ const Hero = () => {
                             For plenty of power and room to grow, go Dedicated and get the whole box to yourself.
                         </p>
                         <div className="">
-                            <button className="btn mr-4 hover:bg-[#F3345B] hover:text-white">View Plan</button>
-                            <button className="btn hover:bg-[#F3345B] hover:text-white">Contact Us</button>
+                            <button className="btn mr-4 dark:bg-white dark:text-black dark:border-none hover:bg-[#F3345B] hover:text-white">View Plan</button>
+                            <button className="btn dark:bg-white dark:text-black dark:border-none hover:bg-[#F3345B] hover:text-white">Contact Us</button>
                         </div>
                     </div>
                 </div>
