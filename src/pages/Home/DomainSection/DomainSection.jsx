@@ -2,8 +2,8 @@ import { FaCheckCircle } from "react-icons/fa";
 
 const DomainSection = () => {
     return (
-        <div className="container mx-auto mt-12 mb-12 bg-white shadow-2xl border p-4">
-            <div>
+        <div className="container mx-auto mt-12 mb-12 bg-white shadow-2xl border border-[#100B9466] rounded-xl p-12">
+            <div className="space-y-6">
                 <h1 className="text-2xl text-center">Search Your Domain Name</h1>
                 <div className="flex items-center gap-6 justify-center">
                     <div className="flex items-center gap-2">
@@ -31,34 +31,34 @@ const DomainSection = () => {
                     </div>
                 </div>
                 <div className="flex gap-4">
-                    <div className="card card-border bg-base-100 w-96 shadow-xl">
-                        <div className="card-body"> 
-                            <p>.com</p>
-                            <h2 className="card-title">Card Title</h2>
+                    <div className="card card-border  bg-base-100 w-96 shadow-xl border-[#100B9466]">
+                        <div className="card-body text-center"> 
+                            <p className="font-bold text-[#F3345B]">.com</p>
+                            <h2 className="card-title text-2xl font-bold mx-auto">TK 1550</h2>
                         </div>
                     </div>
-                    <div className="card card-border bg-base-100 w-96">
-                        <div className="card-body"> 
-                            <p>.com</p>
-                            <h2 className="card-title">Card Title</h2>
+                    <div className="card card-border bg-base-100 w-96 shadow-xl border-[#100B9466]">
+                        <div className="card-body text-center"> 
+                            <p className="font-bold text-[#F3345B]">.net</p>
+                            <h2 className="card-title text-2xl font-bold mx-auto">TK 1200</h2>
                         </div>
                     </div>
-                    <div className="card card-border bg-base-100 w-96">
-                        <div className="card-body"> 
-                            <p>.com</p>
-                            <h2 className="card-title">Card Title</h2>
+                    <div className="card card-border bg-base-100 w-96 shadow-xl border-[#100B9466]">
+                        <div className="card-body text-center"> 
+                            <p className="font-bold text-[#F3345B]">.org</p>
+                            <h2 className="card-title text-2xl font-bold mx-auto">TK 1000</h2>
                         </div>
                     </div>
-                    <div className="card card-border bg-base-100 w-96">
-                        <div className="card-body"> 
-                            <p>.com</p>
-                            <h2 className="card-title">Card Title</h2>
+                    <div className="card card-border bg-base-100 w-96 shadow-xl border-[#100B9466]">
+                        <div className="card-body text-center"> 
+                            <p className="font-bold text-[#F3345B]">.info</p>
+                            <h2 className="card-title text-2xl font-bold mx-auto">TK 500</h2>
                         </div>
                     </div>
-                    <div className="card card-border bg-base-100 w-96">
-                        <div className="card-body"> 
-                            <p>.com</p>
-                            <h2 className="card-title">Card Title</h2>
+                    <div className="card card-border bg-base-100 w-96 shadow-xl border-[#100B9466]">
+                        <div className="card-body text-center"> 
+                            <p className="font-bold text-[#F3345B]">.com.bd</p>
+                            <h2 className="card-title text-2xl font-bold mx-auto">TK 2400 2/yr</h2>
                         </div>
                     </div>
                 </div>
