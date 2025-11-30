@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "30 Day Money Back Guarantee"
+    },
+    {
+        "id": 2,
+        "name": "Malware & Exploit Scanning"
+    },
+    {
+        "id": 3,
+        "name": "Unlimited Auto Responders"
+    },
+    {
+        "id": 4,
+        "name": "Mariadb 10.x / phpMyAdmin"
+    },
+    {
+        "id": 5,
+        "name": "99.9% Server Uptime Guarantee"
+    },
+    {
+        "id": 6,
+        "name": "CloudFlare CDN"
+    },
+    {
+        "id": 7,
+        "name": "Spam Protection"
+    },
+    {
+        "id": 8,
+        "name": "Curl / GD2 / ImageMagick"
+    },
+    {
+        "id": 9,
+        "name": "1 Hour Response Time"
+    },
+    {
+        "id": 10,
+        "name": "Unlimited Sub Domains"
+    },
+    {
+        "id": 11,
+        "name": "SSH Access Available"
+    },
+    {
+        "id": 12,
+        "name": "PHP Selector (5.4 - 7.x)"
+    },
+    {
+        "id": 13,
+        "name": "24/7 Technical Support"
+    },
+    {
+        "id": 14,
+        "name": "Ruby On Rails"
+    },
+    {
+        "id": 15,
+        "name": "Node.js Version Selector"
+    },
+    {
+        "id": 16,
+        "name": "Python Version Selector"
+    },
+    {
+        "id": 17,
+        "name": "Clustered Failover DNS"
+    },
+    {
+        "id": 18,
+        "name": "FREE Let's Encrypt SSL Certs"
+    },
+    {
+        "id": 19,
+        "name": "Awstats & Webalizer"
+    },
+    {
+        "id": 20,
+        "name": "CloudLinux / CageFS"
+    },
+    {
+        "id": 21,
+        "name": "MySQL Databases"
+    },
+    {
+        "id": 22,
+        "name": "FREE cPanel Migration"
+    },
+    {
+        "id": 23,
+        "name": "Zend Guard Loader"
+    },
+    {
+        "id": 24,
+        "name": "Latest cPanel"
+    },
+    {
+        "id": 25,
+        "name": "FTP Accounts"
+    },
+    {
+        "id": 26,
+        "name": "20 GBPS DDoS Protection"
+    },
+    {
+        "id": 27,
+        "name": "Server Side Includes"
+    },
+    {
+        "id": 28,
+        "name": "E-Mail Accounts"
+    }
+]
