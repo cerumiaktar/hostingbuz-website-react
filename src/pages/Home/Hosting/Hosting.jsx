@@ -3,7 +3,7 @@ import { FaCheckSquare } from "react-icons/fa";
 const Hosting = () => {
     return (
         <div className="bg-[#F3F3FF] mb-12">
-            <div className="container mx-auto flex-col md:flex-row items-center">
+            <div className="container mx-auto flex items-center">
                 <div className="space-y-2 md:w-6/12">
                     <h2 className="font-bold text-lg text-[#100B94]">Fastest Web Hosting</h2>
                     <h1 className="text-3xl font-bold">We Provide Secure Reliable Hosting For Every Website</h1>
