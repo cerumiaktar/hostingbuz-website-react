@@ -14,7 +14,7 @@ const Packages = () => {
         <div className='bg-[#F3F3FF] mb-12'>
             <div className='container mx-auto py-20 space-y-6'>
                 <div>
-                    <h1 className='text-2xl font-bold text-center'>Choose Awesome Plan for your Needs</h1>
+                    <h1 className='text-3xl font-bold text-center'>Choose Awesome Plan for your Needs</h1>
                 </div>
                 <div className='flex justify-center gap-6'>
                     {/* small */}

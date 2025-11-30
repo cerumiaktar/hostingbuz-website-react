@@ -2,9 +2,9 @@ import { FaCheckCircle } from "react-icons/fa";
 
 const DomainSection = () => {
     return (
-        <div className="container mx-auto mt-12 mb-12 bg-white shadow-2xl border border-[#100B9466] rounded-xl p-12">
+        <div className="container mx-auto mt-12 mb-12 bg-white shadow-sm border border-[#100B9466] rounded-xl p-12">
             <div className="space-y-6">
-                <h1 className="text-2xl text-center">Search Your Domain Name</h1>
+                <h1 className="text-3xl font-bold text-center">Search Your Domain Name</h1>
                 <div className="flex items-center gap-6 justify-center">
                     <div className="flex items-center gap-2">
                         <span className="text-green-600"><FaCheckCircle /></span>
