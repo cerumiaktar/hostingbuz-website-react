@@ -27,7 +27,7 @@ const DomainSection = () => {
                             </label>
                             <div className="validator-hint hidden">Enter valid domain name</div>
                         </div>
-                        <button className="btn btn-neutral join-item">Search</button>
+                        <button className="btn bg-[#100B94] text-white join-item">Search</button>
                     </div>
                 </div>
                 <div className="flex gap-4">
