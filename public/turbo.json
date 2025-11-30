@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "packageName": "Starter",
+        "price": "$39/mo",
+        "currency": "USD",
+        "duration": "per project",
+        "features": [
+            "1 Landing Page Development",
+            "Responsive Frontend Design",
+            "Basic UI/UX Layout",
+            "Contact Form Integration",
+            "Basic SEO Optimization",
+            "Cross-Browser Compatibility",
+            "1 Revision Included",
+            "Google Analytics Setup",
+            "Hosting & Domain Guidance",
+            "1 Month Free Support"
+        ]
+    },
+    {
+        "id": 2,
+        "packageName": "Basic",
+        "price": "$49/mo",
+        "currency": "USD",
+        "duration": "per project",
+        "features": [
+            "Multi-Page Website Development",
+            "Modern Responsive UI/UX Design",
+            "Custom API Integration",
+            "Basic CMS Setup (WordPress / Custom)",
+            "SEO & Performance Optimization",
+            "Social Media Integration",
+            "Image & Speed Optimization",
+            "Security Best Practices Applied",
+            "3 Rounds of Revision",
+            "3 Months Technical Support"
+        ]
+    },
+    {
+        "id": 3,
+        "packageName": "Advanced",
+        "price": "$59/mo",
+        "currency": "USD",
+        "duration": "per project",
+        "features": [
+            "Full Stack Web Application",
+            "Custom CMS & Admin Panel",
+            "Database Design & Integration",
+            "JWT Authentication System",
+            "Role-Based Access Control",
+            "Performance & Load Testing",
+            "Payment Gateway Integration",
+            "Deployment on Cloud (AWS/Vercel)",
+            "Maintenance Dashboard",
+            "6 Months Free Maintenance"
+        ]
+    },
+    {
+        "id": 4,
+        "packageName": "Premium",
+        "price": "$69/mo",
+        "currency": "USD",
+        "duration": "per project",
+        "features": [
+            "Custom Web Application (React, Next.js, Node.js)",
+            "Advanced Cloud Infrastructure Setup",
+            "Full Branding & Design System",
+            "Multi-Tenant User Management System",
+            "Data Encryption & Backup Solutions",
+            "Integration with Third-Party APIs",
+            "Real-Time Notification System",
+            "Advanced Analytics Dashboard",
+            "24/7 Technical Support Team",
+            "Lifetime Maintenance & Security Updates"
+        ]
+    }
+]
