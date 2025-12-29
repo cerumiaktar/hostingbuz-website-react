@@ -4,6 +4,7 @@ import DomainSection from '../DomainSection/DomainSection';
 import Packages from '../Packages/Packages';
 import Features from '../Features/Features';
 import Hosting from '../Hosting/Hosting';
+import Chooses from '../Chooses/Chooses';
 
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
             <Packages></Packages>
             <Features></Features>
             <Hosting></Hosting>
+            <Chooses></Chooses>
         </div>
     );
 };

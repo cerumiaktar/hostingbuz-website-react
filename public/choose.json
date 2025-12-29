@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "99.9% Uptime Guarantee",
+        "short_description": "We guarantee over 99.9% uptime monthly, ensuring your services run reliably always."
+    },
+    {
+        "id": 2,
+        "title": "Data Security",
+        "short_description": "We protect your data with firewall, anti-DDoS, CloudLinux, and dedicated hosting resources."
+    },
+    {
+        "id": 3,
+        "title": "High-Speed SSD Servers",
+        "short_description": "We use top-tier servers with Enterprise NVMe SSDs for faster, reliable service."
+    },
+    {
+        "id": 4,
+        "title": "Backup",
+        "short_description": "Stay stress-free with our daily backups, storing your data safely for 5 days."
+    },
+    {
+        "id": 5,
+        "title": "99.9% Server Uptime Guarantee",
+        "short_description": "Ensures your website remains online with reliable uptime."
+    },
+    {
+        "id": 6,
+        "title": "CloudFlare CDN",
+        "short_description": "Improve site speed and security using CloudFlare CDN."
+    },
+    {
+        "id": 7,
+        "title": "Spam Protection",
+        "short_description": "Filters unwanted emails and protects your inbox from spam."
+    },
+    {
+        "id": 8,
+        "title": "Curl / GD2 / ImageMagick",
+        "short_description": "Includes essential tools for web development and image processing."
+    }
+]

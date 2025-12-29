@@ -18,7 +18,7 @@ const Packages = () => {
                 </div>
                 <div className='flex justify-center gap-6'>
                     {/* small */}
-                    <button onClick={() => setActiveTabactiveTab('small')} className={`btn ${activeTab === 'small' ? "bg-[#100B94] text-white" : "bg-white"}`}>Small Hosting Plan</button>
+                    <button onClick={() => setActiveTab('small')} className={`btn ${activeTab === 'small' ? "bg-[#100B94] text-white" : "bg-white"}`}>Small Hosting Plan</button>
                     {/* turbo */}
                     <button onClick={() => setActiveTab('turbo')} className={`btn ${activeTab === 'turbo' ? "bg-[#100B94] text-white" : "bg-white"}`}>Turbo Buz Hosting</button>
                     {/* fast */}
