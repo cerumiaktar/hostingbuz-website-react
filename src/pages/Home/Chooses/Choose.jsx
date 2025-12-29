@@ -6,7 +6,7 @@ const Choose = ({ choose,Icon }) => {
         <div>
             <div className="card bg-base-100 shadow-sm">
                 <figure className="px-10 pt-10">
-                    <Icon/>
+                    <Icon className="text-4xl"/>
                 </figure>
                 <div className="card-body items-center text-center">
                     <h2 className="card-title">{title}</h2>

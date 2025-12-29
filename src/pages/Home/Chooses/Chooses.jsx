@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Choose from './Choose';
-import { IoIosTimer, IoMdLock } from "react-icons/io";
+import { IoIosTimer, IoMdLock,IoIosSpeedometer } from "react-icons/io";
+import { MdOutlineBackup } from "react-icons/md";
 
 const Chooses = () => {
     const [chooses, setChooses] = useState([])
@@ -11,7 +12,7 @@ const Chooses = () => {
             .then(data => setChooses(data))
     }, [])
 
-    const icons = [IoIosTimer,IoMdLock]
+    const icons = [IoIosTimer,IoMdLock,IoIosSpeedometer,MdOutlineBackup]
 
     return (
         <div className='container mx-auto mb-12'>
