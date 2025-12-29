@@ -1,10 +1,18 @@
-import React from 'react';
 
-const Choose = ({choose}) => {
-    const {title,short_description} = choose;
+const Choose = ({ choose,Icon }) => {
+    const { title, short_description } = choose;
+    
     return (
         <div>
-            <h1>{title}</h1>
+            <div className="card bg-base-100 shadow-sm">
+                <figure className="px-10 pt-10">
+                    <Icon/>
+                </figure>
+                <div className="card-body items-center text-center">
+                    <h2 className="card-title">{title}</h2>
+                    <p>{short_description}</p>
+                </div>
+            </div>
         </div>
     );
 };
