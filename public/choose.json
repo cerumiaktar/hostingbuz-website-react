@@ -21,22 +21,22 @@
     },
     {
         "id": 5,
-        "title": "99.9% Server Uptime Guarantee",
-        "short_description": "Ensures your website remains online with reliable uptime."
+        "title": "Spam Guard",
+        "short_description": "SpamGuard is a web email filter offering top security, stability, and anti-DDoS protection."
     },
     {
         "id": 6,
-        "title": "CloudFlare CDN",
-        "short_description": "Improve site speed and security using CloudFlare CDN."
+        "title": "Free SSL Certificate",
+        "short_description": "We offer free unlimited SSL with easy installation and auto-renewed let’s Encrypt certificates"
     },
     {
         "id": 7,
-        "title": "Spam Protection",
-        "short_description": "Filters unwanted emails and protects your inbox from spam."
+        "title": "Enhance Security",
+        "short_description": "Website security is vital; our network blocks over 95% of common DDoS attacks."
     },
     {
         "id": 8,
-        "title": "Curl / GD2 / ImageMagick",
-        "short_description": "Includes essential tools for web development and image processing."
+        "title": "Free 24/ Support",
+        "short_description": "Our expert support team is available 24/7 with every hosting package."
     }
 ]

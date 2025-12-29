@@ -4,7 +4,7 @@ const Choose = ({ choose,Icon }) => {
     
     return (
         <div>
-            <div className="card bg-base-100 shadow-sm">
+            <div className="card bg-base-100 shadow-xl border border-[#100B9466]">
                 <figure className="px-10 pt-10">
                     <Icon className="text-4xl"/>
                 </figure>

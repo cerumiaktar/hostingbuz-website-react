@@ -1,7 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import Choose from './Choose';
 import { IoIosTimer, IoMdLock,IoIosSpeedometer } from "react-icons/io";
-import { MdOutlineBackup } from "react-icons/md";
+import { MdOutlineBackup,MdOutlinePrivacyTip } from "react-icons/md";
+import { RiSpam2Line } from "react-icons/ri";
+import { FaExpeditedssl } from "react-icons/fa";
+import { BiSupport } from "react-icons/bi";
 
 const Chooses = () => {
     const [chooses, setChooses] = useState([])
@@ -12,7 +15,7 @@ const Chooses = () => {
             .then(data => setChooses(data))
     }, [])
 
-    const icons = [IoIosTimer,IoMdLock,IoIosSpeedometer,MdOutlineBackup]
+    const icons = [IoIosTimer,IoMdLock,IoIosSpeedometer,MdOutlineBackup,RiSpam2Line,FaExpeditedssl,MdOutlinePrivacyTip,BiSupport]
 
     return (
         <div className='container mx-auto mb-12'>
