@@ -1,4 +1,4 @@
-
+import { BsDatabaseFillLock } from "react-icons/bs";
 
 const DataCenter = () => {
     return (
@@ -12,6 +12,15 @@ const DataCenter = () => {
                         <h4 className="font-bold text-[#F3345B]">Global Datacenters</h4>
                         <h1 className="text-2xl font-bold">Powerful Severs, High Speed Datacenter Connectivity</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incid idunt ut labore.</p>
+                    </div>
+                    <div>
+                        <div>
+                            <h1>Global Datacenters</h1>
+                            <p>Lorem ipsum dolor sit amet consecteturadipis labore dolore magna aliqua</p>
+                        </div>
+                        <div>
+                            <BsDatabaseFillLock />
+                        </div>
                     </div>
                 </div>
             </div>
