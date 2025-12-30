@@ -17,7 +17,7 @@ const Package = ({ plan }) => {
                         }
                     </ul>
                     <div className="mt-auto">
-                        <button className="btn bg-[#100B94] btn-block text-white">Purchase Now</button>
+                        <button className="btn bg-[#100B94] hover:bg-[#F3345B] btn-block text-white">Purchase Now</button>
                     </div>
                 </div>
             </div>

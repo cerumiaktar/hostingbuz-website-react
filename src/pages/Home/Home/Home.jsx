@@ -5,6 +5,7 @@ import Packages from '../Packages/Packages';
 import Features from '../Features/Features';
 import Hosting from '../Hosting/Hosting';
 import Chooses from '../Chooses/Chooses';
+import Map from '../Map/Map';
 
 
 const Home = () => {
@@ -16,6 +17,7 @@ const Home = () => {
             <Features></Features>
             <Hosting></Hosting>
             <Chooses></Chooses>
+            <Map></Map>
         </div>
     );
 };
