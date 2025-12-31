@@ -1,4 +1,5 @@
 import { BsDatabaseFillLock } from "react-icons/bs";
+import { FaFileCode } from "react-icons/fa";
 
 const DataCenter = () => {
     return (
@@ -13,12 +14,22 @@ const DataCenter = () => {
                         <h1 className="text-2xl font-bold">Powerful Severs, High Speed Datacenter Connectivity</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incid idunt ut labore.</p>
                     </div>
-                    <div className="flex gap-3">
+                    <div className="flex gap-3 mb-6">
                         <div className="bg-[#F3F3FF] p-4 rounded-lg">
                             <BsDatabaseFillLock className="text-2xl text-[#100B94]" />
                         </div>
                         <div>
                             <h1 className="text-xl font-bold ">Global Datacenters</h1>
+                            <p className="text-[#333333]">Lorem ipsum dolor sit amet consecteturadipis labore dolore magna aliqua</p>
+                        </div>
+
+                    </div>
+                    <div className="flex gap-3">
+                        <div className="bg-[#F3F3FF] p-4 rounded-lg">
+                            <FaFileCode className="text-2xl text-[#100B94]" />
+                        </div>
+                        <div>
+                            <h1 className="text-xl font-bold ">Facility Security</h1>
                             <p className="text-[#333333]">Lorem ipsum dolor sit amet consecteturadipis labore dolore magna aliqua</p>
                         </div>
 
