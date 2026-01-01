@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co.com/RGL2p955/1-2.png",
+        "title": "What is Web Hosting",
+        "short_description": "Get the best travel deals with no hidden costs."
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co.com/hxpD8zy7/2.png",
+        "title": "Why Do You Need It",
+        "short_description": "Verified hotels, transport, and tour guides."
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co.com/KxkrYbPP/3.png",
+        "title": "Choose the Right Web Hosting",
+        "short_description": "Easy booking with safe and secure payment."
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co.com/XxsgnyTn/4.png",
+        "title": "Common Hosting Mistakes",
+        "short_description": "Tours designed to match your budget and style."
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co.com/RGL2p955/1-2.png",
+        "title": "Shared vs VPS vs Cloud",
+        "short_description": "Customer support anytime, anywhere."
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co.com/hxpD8zy7/2.png",
+        "title": "Travel Experts",
+        "short_description": "Experienced professionals planning your trips."
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co.com/KxkrYbPP/3.png",
+        "title": "Local Guides",
+        "short_description": "Authentic experiences with local guides."
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co.com/XxsgnyTn/4.png",
+        "title": "Safety First",
+        "short_description": "Your safety and comfort are our priority."
+    }
+]
