@@ -8,6 +8,7 @@ import Chooses from '../Chooses/Chooses';
 import Map from '../Map/Map';
 import DataCenter from '../DataCenter/DataCenter';
 import Blogs from '../Blogs/Blogs';
+import Support from '../Support/Support';
 
 
 const Home = () => {
@@ -21,6 +22,7 @@ const Home = () => {
             <Chooses></Chooses>
             <Map></Map>
             <DataCenter></DataCenter>
+            <Support></Support>
             <Blogs></Blogs>
         </div>
     );
