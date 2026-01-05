@@ -13,8 +13,8 @@ const Blog = ({ blog }) => {
                 <div className="card-body">
                     <h2 className="card-title">{title}</h2>
                     <p>{short_description}</p>
-                    <div className="card-actions justify-end">
-                        <button className="btn btn-primary">Buy Now</button>
+                    <div className="card-actions w-full">
+                        <button className="btn btn-primary w-full">Read more</button>
                     </div>
                 </div>
             </div>
