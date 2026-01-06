@@ -10,7 +10,7 @@ const Clients = () => {
         .then(data=>setClients(data))
     } ,[])
     return (
-        <div className='container mx-auto mb-12 bg-none'>
+        <div className='container mx-auto mb-12'>
             <h1 className='text-3xl font-bold text-center mb-6'>Our Valueable Clients</h1>
             <Marquee className='p-4'>
                 {
