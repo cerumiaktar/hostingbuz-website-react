@@ -10,6 +10,7 @@ import DataCenter from '../DataCenter/DataCenter';
 import Blogs from '../Blogs/Blogs';
 import Support from '../Support/Support';
 import Clients from '../Clients/Clients';
+import Reviews from '../Reviews/Reviews';
 
 
 const Home = () => {
@@ -23,6 +24,7 @@ const Home = () => {
             <Chooses></Chooses>
             <Map></Map>
             <DataCenter></DataCenter>
+            <Reviews></Reviews>
             <Clients></Clients>
             <Support></Support>
             <Blogs></Blogs>
