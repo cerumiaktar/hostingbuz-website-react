@@ -3,32 +3,28 @@
         "img": "/images/customers/customer1.jpg",
         "title": "John Carter",
         "designation": "Startup Founder",
-        "rating": 5,
-        "stars": "★★★★★",
+        "rating": "★★★★★",
         "description": "HostingBuz provides excellent speed and uptime. Their support team is quick and very helpful."
     },
     {
         "img": "/images/customers/customer2.jpg",
         "title": "Sarah Ahmed",
         "designation": "Web Designer",
-        "rating": 4,
-        "stars": "★★★★☆",
+        "rating": "★★★★★",
         "description": "Very reliable hosting with easy management tools. Great value for the price."
     },
     {
         "img": "/images/customers/customer3.jpg",
         "title": "Michael Lee",
         "designation": "Ecommerce Owner",
-        "rating": 5,
-        "stars": "★★★★★",
+        "rating": "★★★★★",
         "description": "My website loads faster than ever. HostingBuz is perfect for online businesses."
     },
     {
         "img": "/images/customers/customer4.jpg",
         "title": "Ayesha Khan",
         "designation": "Digital Marketer",
-        "rating": 4,
-        "stars": "★★★★☆",
+        "rating": "★★★★★",
         "description": "Stable performance and great customer service. Highly recommended for professionals."
     }
 ]
