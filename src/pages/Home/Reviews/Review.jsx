@@ -6,8 +6,13 @@ const Review = ({ review }) => {
         <div>
             <div className="card bg-base-100 card-md shadow-sm">
                 <div className="card-body">
-                    <h2 className="card-title">{title}</h2>
-                    <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
+                    <div className='flex items-center gap-3'>
+                        <img className='w-12 h-12' src={img} alt="" />
+                        <div>
+                            <h2 className="card-title">{title}</h2>
+                            <p>{designation}</p>
+                        </div>
+                    </div>
                     <div className="justify-end card-actions">
                         <button className="btn btn-primary">Buy Now</button>
                     </div>
