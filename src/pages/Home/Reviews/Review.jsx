@@ -13,8 +13,8 @@ const Review = ({ review }) => {
                             <p>{designation}</p>
                         </div>
                     </div>
-                    <div className="justify-end card-actions">
-                        <button className="btn btn-primary">Buy Now</button>
+                    <div className="card-actions">
+                        <button className="btn bg-[#100B94] text-white w-full">View Details</button>
                     </div>
                 </div>
             </div>
