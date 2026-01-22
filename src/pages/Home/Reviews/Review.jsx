@@ -21,9 +21,6 @@ const Review = ({ review }) => {
                     <div>
                         <p>{description}</p>
                     </div>
-                    <div className="card-actions">
-                        <button className="btn bg-[#100B94] text-white w-full">View Details</button>
-                    </div>
                 </div>
             </div>
         </div>
