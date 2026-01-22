@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Review = ({ review }) => {
-    const { img, title, designation, rating, } = review;
+    const { img, title, designation, rating,description } = review;
     return (
         <div>
             <div className="card bg-base-100 card-md shadow-sm">
@@ -12,6 +12,9 @@ const Review = ({ review }) => {
                             <h2 className="card-title">{title}</h2>
                             <p>{designation}</p>
                         </div>
+                    </div>
+                    <div>
+                        <p>{description}</p>
                     </div>
                     <div className="card-actions">
                         <button className="btn bg-[#100B94] text-white w-full">View Details</button>
